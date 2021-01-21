@@ -10,12 +10,12 @@ Create a singleplayer game mode with AI players (random number from
 configurable min/max values).
 
 #### Rest of features:
-• Planets should be visually different (and random)
-• Implement 3 types of rockets with different base stats (acceleration, weight,
+* Planets should be visually different (and random)
+* Implement 3 types of rockets with different base stats (acceleration, weight,
 cooldown, etc.), which are distributed randomly amongst planets
-• Pause/resume feature
-• Save/load feature
-• UI: main menu, HUD, planet HUD (HP bar, shooting cooldown)
+* Pause/resume feature
+* Save/load feature
+* UI: main menu, HUD, planet HUD (HP bar, shooting cooldown)
 
 # Screenshots
 ## Main menu
