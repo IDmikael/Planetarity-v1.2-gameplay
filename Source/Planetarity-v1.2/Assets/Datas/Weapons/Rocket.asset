@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e0c3aa18a6fff47a0b3f9fa7fb3c9d, type: 3}
+  m_Name: Rocket
+  m_EditorClassIdentifier: 
+  objectSprite: {fileID: 21300000, guid: 59acca4c8c635654abee1e2cf54d71b0, type: 3}
+  type: 0
+  explosionEffect: {fileID: 725748389856807714, guid: 4bda94453d2ca7444a0fff05b2d425f5,
+    type: 3}
+  damage: 5
+  acceleration: 10
+  cooldownTime: 2
