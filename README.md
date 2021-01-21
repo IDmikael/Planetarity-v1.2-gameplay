@@ -17,6 +17,10 @@ cooldown, etc.), which are distributed randomly amongst planets
 * Save/load feature
 * UI: main menu, HUD, planet HUD (HP bar, shooting cooldown)
 
+#### Note
+* You can find configurable min/max values for players count in Tools/EnemiesEditorManager window.
+* Gravity of planets may not impact rockets very much, thats because planet's weight setups randomly. You can specify min/max range for it in Planet prefab/minWeight/maxWeight.
+
 # Screenshots
 ## Main menu
 ![](https://github.com/IDmikael/Planetarity-v1.2-gameplay/blob/main/Screenshots/Screen1.png)
