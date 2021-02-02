@@ -1,5 +1,4 @@
 # Planetarity v1.2 gameplay
-## Made by Vladyslav Polupan
 
 ## Task
 Create a planetary artillery arcade in pseudo 2D (i.e. 2D game in the 3D world).
