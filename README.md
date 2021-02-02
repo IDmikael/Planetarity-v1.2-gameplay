@@ -1,4 +1,5 @@
 # Planetarity v1.2 gameplay
+Project was made from scratch in 2 days.
 
 ## Task
 Create a planetary artillery arcade in pseudo 2D (i.e. 2D game in the 3D world).
